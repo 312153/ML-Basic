@@ -9,3 +9,4 @@ __pycache__
 *.sqlite3
 buf
 .idea
+DATA_OVERVIEW.md
